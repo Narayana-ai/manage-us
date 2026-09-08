@@ -1,0 +1,6 @@
+{
+  "name": "Phase24",
+  "description": "24-Hour Daily Planner & Smart Alarm with phase-based scheduling, automatic duration balancing, timeline visualization, and neumorphic tactile design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
